@@ -1,0 +1,12 @@
+{
+  "name": "grunt-plugins",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-clean": "^0.4.0",
+    "grunt-copy": "^0.1.0",
+    "grunt-curl": "^2.2.0",
+    "grunt-shell": "^1.1.2",
+    "grunt-zip": "^0.16.2"
+  }
+}
